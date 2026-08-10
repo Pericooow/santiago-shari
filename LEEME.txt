@@ -1,0 +1,22 @@
+SANTIAGO & SHARITH — PÁGINA
+
+La página ya contiene las 3 fotos que subiste.
+
+Para probarla:
+- Abre index.html con doble clic.
+- Se verá correctamente en computador.
+- En pantallas de celular mostrará el aviso de "solo para computador".
+
+Para publicarla:
+1. Sube esta carpeta a GitHub.
+2. Activa GitHub Pages.
+3. Obtendrás un enlace público que podrás enviar.
+
+El contador comienza el 6 de octubre de 2022 a las 00:00.
+Si conoces la hora exacta en la que comenzaron, se puede cambiar.
+
+Archivos:
+- index.html
+- foto1.png
+- foto2.png
+- foto3.png
